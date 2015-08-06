@@ -1,2 +1,1 @@
-im6q freescale TQ os_platform
-im6q_os_platform
+1.2015-08-04:Today I use TQ E9 platform source:gcc(arm-none-linux-gnueabi-4.9.3  u-boot-2009.08  linux-3.0.35  rootfs(include QT lib)) to complie file and flash to hardware,it can do well,I will use this platform to start my linux network journey.
